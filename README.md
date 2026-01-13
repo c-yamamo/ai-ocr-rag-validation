@@ -164,9 +164,10 @@ LLMは文章生成ではなく、**判断装置**として利用します。
 
 ---
 
-## Author
+## 10. Author
 
-- GitHub: c-morimo  
-- Role: Infrastructure Engineer / AI System Validation
+  * GitHub: c-yamamo
+  * Role: Infrastructure Engineer / AI System Validation
+
 
   
