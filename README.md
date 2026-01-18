@@ -15,7 +15,7 @@
 
 を重視しています。
 
-## Why Validation?
+# Why Validation?
 
 OCR・RAG・LLM といった要素技術が動作するかを確認する PoC は、すでに一般化しています。  
 本プロジェクトでは業務利用を想定し、  
